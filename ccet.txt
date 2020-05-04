@@ -2,3 +2,5 @@ Welcome to CCET
 Different Branches are
 C.E
 I.T
+Mech
+Ele
